@@ -24,6 +24,7 @@ include(ECMSetupVersion)
 include(ECMGenerateHeaders)
 include(ECMQtDeclareLoggingCategory)
 include(ECMDeprecationSettings)
+include(ECMInstalledLibraryCheck)
 include(CMakePackageConfigHelpers)
 include(CMakeDependentOption)
 
