@@ -10,7 +10,7 @@
 
     \section2 Building with CMake
 
-    \include {module-use.qdocinc} {building with cmake} {Kf6} {Completion} {KF6::Completion}
+    \include {module-use.qdocinc} {building with cmake} {KF6} {Completion} {KF6::Completion}
 
     \section1 API Reference
 
