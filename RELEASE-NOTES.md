@@ -2,6 +2,10 @@
 
 Sonic Frameworks Autocomplete suggests completions as you type in SonicDE apps, such as file names and previous entries.
 
+## 6.31.0.1 (2026-11-10)
+
+- Behind the scenes: a developer documentation fix.
+
 ## 6.31.0 (2026-10-20)
 
 - Behind the scenes: version update.
